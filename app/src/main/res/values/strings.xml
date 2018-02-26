@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="show">Show</string>
+    <string name="ac">AC</string>
+    <string name="PlusMinus">+_</string>
+    <string name="Percent">%</string>
+    <string name="Devide">÷</string>
+    <string name="result">Result</string>
+    <string name="Seven">7</string>
+    <string name="Eight">8</string>
+    <string name="Nine">9</string>
+    <string name="Multiply">x</string>
+    <string name="_5">5</string>
+    <string name="_0">0</string>
+    <string name="Equal">=</string>
+    <string name="Dot">.</string>
+    <string name="Plus">+</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="_4">4</string>
+    <string name="_6">6</string>
+    <string name="Minus">-</string>
+</resources>
